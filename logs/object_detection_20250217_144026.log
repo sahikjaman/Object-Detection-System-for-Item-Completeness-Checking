@@ -1,0 +1,12 @@
+2025-02-17 14:40:26,073 - __main__ - INFO - Logging system initialized successfully
+2025-02-17 14:40:26,074 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250217_144026.log
+2025-02-17 14:40:26,075 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-17 14:40:26,075 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 14:40:26,076 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-17 14:40:26,076 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 14:40:26,162 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-17 14:40:27,725 - __main__ - INFO - Camera settings initialized (Exposure, Contrast, Gamma, Gain)
+2025-02-17 14:40:27,726 - __main__ - INFO - Camera initialized and started. Resolution: 1280x1024
+2025-02-17 14:41:28,488 - __main__ - INFO - Object tracking enabled
+2025-02-17 14:41:29,135 - __main__ - INFO - Object tracking disabled
+2025-02-17 14:41:29,557 - __main__ - INFO - Object tracking enabled

@@ -1,0 +1,32 @@
+2025-02-20 08:15:46,984 - __main__ - INFO - Logging system initialized successfully
+2025-02-20 08:15:46,984 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250220_081546.log
+2025-02-20 08:15:46,985 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-20 08:15:46,985 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-20 08:15:46,987 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-20 08:15:46,987 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-20 08:15:47,076 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinet_yolov8n.pt
+2025-02-20 08:15:51,079 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-20 08:15:58,693 - __main__ - INFO - Alert mode enabled
+2025-02-20 08:16:02,170 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:17,598 - __main__ - WARNING - Objek belum lengkap. Kurang: Upper, Barcode, Mouthpiece, Strap, Barrel, Bell, Lower, Accessories Set, Silica
+2025-02-20 08:16:19,785 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,093 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,100 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,108 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,120 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,128 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,134 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,143 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,150 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,194 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,676 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,717 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,725 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-20 08:16:20,733 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,742 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,755 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,765 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,772 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,779 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,792 - __main__ - INFO - Confidence threshold updated to 0.50
+2025-02-20 08:16:20,809 - __main__ - INFO - Confidence threshold updated to 0.50

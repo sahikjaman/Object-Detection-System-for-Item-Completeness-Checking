@@ -1,0 +1,6 @@
+2025-02-21 14:42:04,702 - __main__ - INFO - Logging system initialized successfully
+2025-02-21 14:42:04,702 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250221_144204.log
+2025-02-21 14:42:04,704 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-21 14:42:04,704 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 14:42:04,705 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-21 14:42:04,705 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs

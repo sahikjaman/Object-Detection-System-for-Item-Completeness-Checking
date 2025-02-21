@@ -1,0 +1,8 @@
+2025-02-21 11:34:02,295 - __main__ - INFO - Logging system initialized successfully
+2025-02-21 11:34:02,295 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250221_113402.log
+2025-02-21 11:34:02,306 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-21 11:34:02,308 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 11:34:02,308 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-21 11:34:02,309 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 11:34:02,402 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinettes_yolov8n.pt
+2025-02-21 11:34:06,447 - __main__ - INFO - Video capture berhasil diinisialisasi

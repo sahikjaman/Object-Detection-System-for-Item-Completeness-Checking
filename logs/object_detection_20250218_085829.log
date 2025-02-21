@@ -1,0 +1,43 @@
+2025-02-18 08:58:29,614 - __main__ - INFO - Logging system initialized successfully
+2025-02-18 08:58:29,614 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250218_085829.log
+2025-02-18 08:58:29,627 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-18 08:58:29,627 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-18 08:58:29,628 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-18 08:58:29,628 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-18 08:58:29,766 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-18 08:58:33,992 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-18 08:58:49,416 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-18 08:58:52,662 - __main__ - INFO - Foto berhasil disimpan: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos\detected_20250218_085849.jpg
+2025-02-18 08:58:58,173 - __main__ - WARNING - Objek belum lengkap. Kurang: Arduino
+2025-02-18 08:59:11,482 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-18 08:59:13,970 - __main__ - INFO - Foto berhasil disimpan: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos\detected_20250218_085911.jpg
+2025-02-18 08:59:30,220 - __main__ - INFO - File CSV dibuka: D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-18 08:59:47,529 - __main__ - INFO - Object tracking enabled
+2025-02-18 08:59:48,347 - __main__ - INFO - Object tracking disabled
+2025-02-18 08:59:49,829 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,076 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,083 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,092 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,100 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-18 08:59:50,143 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-18 08:59:50,149 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-18 08:59:50,158 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-18 08:59:50,166 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-18 08:59:50,761 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-18 08:59:50,772 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,777 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,787 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,795 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,806 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,811 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,891 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,900 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-18 08:59:50,907 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-18 08:59:50,915 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-18 08:59:50,924 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-18 08:59:50,938 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-18 08:59:51,142 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-18 09:00:13,733 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-18 09:00:18,487 - __main__ - INFO - Foto berhasil disimpan: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos\detected_20250218_090013.jpg
+2025-02-18 09:00:21,227 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-18 09:48:49,964 - __main__ - INFO - Foto berhasil disimpan: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos\detected_20250218_090021.jpg

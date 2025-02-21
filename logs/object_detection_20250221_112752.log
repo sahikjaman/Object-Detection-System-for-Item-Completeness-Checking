@@ -1,0 +1,13 @@
+2025-02-21 11:27:52,494 - __main__ - INFO - Logging system initialized successfully
+2025-02-21 11:27:52,495 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250221_112752.log
+2025-02-21 11:27:52,506 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-21 11:27:52,507 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 11:27:52,508 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-21 11:27:52,508 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 11:27:52,603 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinettes_yolov8n.pt
+2025-02-21 11:27:56,640 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-21 11:28:07,320 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-21 11:28:07,352 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-21 11:28:10,439 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-21 11:28:11,809 - __main__ - INFO - Confidence threshold updated to 0.20
+2025-02-21 11:28:19,211 - __main__ - INFO - Confidence threshold updated to 0.15

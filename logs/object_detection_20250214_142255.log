@@ -1,0 +1,7 @@
+2025-02-14 14:22:55,575 - INFO - Logging system initialized successfully
+2025-02-14 14:22:55,576 - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250214_142255.log
+2025-02-14 14:22:55,576 - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-14 14:22:55,576 - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-14 14:22:55,576 - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-14 14:22:55,599 - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-14 14:22:59,534 - INFO - Video capture berhasil diinisialisasi

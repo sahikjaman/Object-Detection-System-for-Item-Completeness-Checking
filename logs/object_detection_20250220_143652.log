@@ -1,0 +1,9 @@
+2025-02-20 14:36:52,972 - __main__ - INFO - Logging system initialized successfully
+2025-02-20 14:36:52,973 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250220_143652.log
+2025-02-20 14:36:52,991 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-20 14:36:52,992 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-20 14:36:52,992 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-20 14:36:52,992 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-20 14:36:53,090 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinettes_yolov8n.pt
+2025-02-20 14:36:53,698 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-20 14:37:06,706 - __main__ - WARNING - Gagal membaca frame dari kamera

@@ -1,0 +1,9 @@
+2025-02-17 10:24:43,739 - __main__ - INFO - Logging system initialized successfully
+2025-02-17 10:24:43,739 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250217_102443.log
+2025-02-17 10:24:43,740 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-17 10:24:43,741 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 10:24:43,741 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-17 10:24:43,741 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 10:24:43,785 - __main__ - INFO - Model loaded from D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-17 10:24:47,786 - __main__ - INFO - Video capture initialized
+2025-02-17 10:24:54,259 - __main__ - ERROR - Failed to save photo: 'AdvancedObjectDetectionSystem' object has no attribute 'log_detection'

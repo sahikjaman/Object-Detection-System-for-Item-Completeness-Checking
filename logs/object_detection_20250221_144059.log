@@ -1,0 +1,68 @@
+2025-02-21 14:40:59,509 - __main__ - INFO - Logging system initialized successfully
+2025-02-21 14:40:59,509 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250221_144059.log
+2025-02-21 14:40:59,511 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-21 14:40:59,512 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 14:40:59,512 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-21 14:40:59,512 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs
+2025-02-21 14:40:59,610 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinettes_yolov8n.pt
+2025-02-21 14:41:03,995 - __main__ - INFO - Video capture berhasil diinisialisasi dengan resolusi 1920x1080
+2025-02-21 14:41:06,308 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,330 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,352 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,369 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,386 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,402 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,433 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,624 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:06,832 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:07,023 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:07,231 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:07,423 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:07,631 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:07,822 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:08,031 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:08,224 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:08,433 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:08,623 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:08,830 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:09,022 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:09,231 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:09,424 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:09,633 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:09,825 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:10,032 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:10,226 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:10,432 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:10,623 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:10,830 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:11,022 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:11,231 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:11,424 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:11,632 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:11,826 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:12,033 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:12,228 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:12,435 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:12,626 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:12,837 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:13,032 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:13,244 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:13,433 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:13,645 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:13,835 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:14,047 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:14,235 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:14,447 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:14,639 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:14,868 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:15,043 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:15,248 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:15,441 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:15,648 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:15,840 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:16,049 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:16,244 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:16,446 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:16,642 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:16,848 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv
+2025-02-21 14:41:17,040 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_logs\clarinet_detection_log.csv

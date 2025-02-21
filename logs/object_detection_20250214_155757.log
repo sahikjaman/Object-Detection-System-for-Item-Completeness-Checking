@@ -1,0 +1,43 @@
+2025-02-14 15:57:57,624 - __main__ - INFO - Logging system initialized successfully
+2025-02-14 15:57:57,625 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250214_155757.log
+2025-02-14 15:57:57,626 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-14 15:57:57,626 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-14 15:57:57,626 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-14 15:57:57,627 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-14 15:57:57,713 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-14 15:58:01,649 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-14 16:02:36,029 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:02:37,785 - __main__ - INFO - Object tracking enabled
+2025-02-14 16:02:41,223 - __main__ - INFO - Object tracking disabled
+2025-02-14 16:02:54,457 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:02:59,747 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:09,998 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:11,849 - __main__ - INFO - Object tracking enabled
+2025-02-14 16:03:14,493 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:17,602 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:25,109 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:35,300 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:36,621 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-14 16:03:36,957 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-14 16:03:38,925 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:40,044 - __main__ - INFO - Confidence threshold updated to 0.10
+2025-02-14 16:03:42,275 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:46,700 - __main__ - INFO - Object tracking disabled
+2025-02-14 16:03:48,159 - __main__ - INFO - Object tracking enabled
+2025-02-14 16:03:51,105 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:03:59,539 - __main__ - INFO - Confidence threshold updated to 0.55
+2025-02-14 16:04:00,124 - __main__ - INFO - Confidence threshold updated to 0.55
+2025-02-14 16:04:00,230 - __main__ - INFO - Confidence threshold updated to 0.55
+2025-02-14 16:04:00,236 - __main__ - INFO - Confidence threshold updated to 0.60
+2025-02-14 16:04:00,244 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-14 16:04:00,251 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-14 16:04:00,262 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-14 16:04:00,269 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-14 16:04:00,279 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-14 16:04:00,286 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-14 16:04:00,296 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-14 16:04:00,302 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-14 16:04:00,315 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-14 16:04:00,559 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-14 16:04:03,665 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
+2025-02-14 16:04:19,013 - __main__ - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.

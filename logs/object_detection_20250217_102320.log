@@ -1,0 +1,8 @@
+2025-02-17 10:23:20,770 - __main__ - INFO - Logging system initialized successfully
+2025-02-17 10:23:20,770 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250217_102320.log
+2025-02-17 10:23:20,771 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-17 10:23:20,771 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 10:23:20,772 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-17 10:23:20,772 - __main__ - INFO - Directory created: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 10:23:20,815 - __main__ - INFO - Model loaded from D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-17 10:23:24,854 - __main__ - INFO - Video capture initialized

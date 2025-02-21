@@ -1,0 +1,114 @@
+2025-02-19 15:03:23,081 - __main__ - INFO - Logging system initialized successfully
+2025-02-19 15:03:23,081 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250219_150323.log
+2025-02-19 15:03:23,095 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-19 15:03:23,095 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-19 15:03:23,097 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-19 15:03:23,101 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-19 15:03:23,229 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinet_yolov8n.pt
+2025-02-19 15:03:27,326 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-19 15:11:02,886 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-19 15:11:03,161 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-19 15:11:03,169 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-19 15:11:03,176 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-19 15:11:03,185 - __main__ - INFO - Confidence threshold updated to 0.55
+2025-02-19 15:11:03,192 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-19 15:11:03,204 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-19 15:11:03,211 - __main__ - INFO - Confidence threshold updated to 0.85
+2025-02-19 15:11:03,218 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:03,226 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,237 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,242 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,253 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,673 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,682 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,690 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,700 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,706 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,715 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,723 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,733 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,740 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,752 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,798 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,864 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,872 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,880 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,987 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:03,997 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,005 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,013 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,041 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,051 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,059 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,067 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,107 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,116 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,125 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,131 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,142 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,150 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,159 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,165 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,173 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,182 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,193 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,199 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,267 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,275 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,283 - __main__ - INFO - Confidence threshold updated to 0.85
+2025-02-19 15:11:04,291 - __main__ - INFO - Confidence threshold updated to 0.85
+2025-02-19 15:11:04,299 - __main__ - INFO - Confidence threshold updated to 0.80
+2025-02-19 15:11:04,308 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-19 15:11:04,316 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-19 15:11:04,326 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-19 15:11:04,333 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-19 15:11:04,340 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-19 15:11:04,348 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-19 15:11:04,360 - __main__ - INFO - Confidence threshold updated to 0.60
+2025-02-19 15:11:04,368 - __main__ - INFO - Confidence threshold updated to 0.60
+2025-02-19 15:11:04,498 - __main__ - INFO - Confidence threshold updated to 0.60
+2025-02-19 15:11:04,504 - __main__ - INFO - Confidence threshold updated to 0.60
+2025-02-19 15:11:04,516 - __main__ - INFO - Confidence threshold updated to 0.60
+2025-02-19 15:11:04,523 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-19 15:11:04,531 - __main__ - INFO - Confidence threshold updated to 0.65
+2025-02-19 15:11:04,539 - __main__ - INFO - Confidence threshold updated to 0.75
+2025-02-19 15:11:04,548 - __main__ - INFO - Confidence threshold updated to 0.80
+2025-02-19 15:11:04,556 - __main__ - INFO - Confidence threshold updated to 0.85
+2025-02-19 15:11:04,565 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,573 - __main__ - INFO - Confidence threshold updated to 0.95
+2025-02-19 15:11:04,583 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,593 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,597 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,607 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,616 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,838 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,850 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,856 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,866 - __main__ - INFO - Confidence threshold updated to 1.00
+2025-02-19 15:11:04,873 - __main__ - INFO - Confidence threshold updated to 0.90
+2025-02-19 15:11:04,881 - __main__ - INFO - Confidence threshold updated to 0.80
+2025-02-19 15:11:04,889 - __main__ - INFO - Confidence threshold updated to 0.70
+2025-02-19 15:11:04,899 - __main__ - INFO - Confidence threshold updated to 0.55
+2025-02-19 15:11:04,907 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-19 15:11:04,915 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-19 15:11:04,923 - __main__ - INFO - Confidence threshold updated to 0.05
+2025-02-19 15:11:04,931 - __main__ - INFO - Confidence threshold updated to 0.00
+2025-02-19 15:11:04,938 - __main__ - INFO - Confidence threshold updated to 0.00
+2025-02-19 15:11:04,949 - __main__ - INFO - Confidence threshold updated to 0.00
+2025-02-19 15:11:04,956 - __main__ - INFO - Confidence threshold updated to 0.00
+2025-02-19 15:11:04,965 - __main__ - INFO - Confidence threshold updated to 0.00
+2025-02-19 15:11:04,993 - __main__ - INFO - Confidence threshold updated to 0.00
+2025-02-19 15:11:05,919 - __main__ - INFO - Confidence threshold updated to 0.15
+2025-02-19 15:11:05,973 - __main__ - INFO - Confidence threshold updated to 0.15
+2025-02-19 15:11:05,992 - __main__ - INFO - Confidence threshold updated to 0.15
+2025-02-19 15:11:06,003 - __main__ - INFO - Confidence threshold updated to 0.15
+2025-02-19 15:11:06,009 - __main__ - INFO - Confidence threshold updated to 0.20
+2025-02-19 15:11:06,159 - __main__ - INFO - Confidence threshold updated to 0.80
+2025-02-19 15:11:06,578 - __main__ - INFO - Confidence threshold updated to 0.55
+2025-02-19 15:11:42,701 - __main__ - INFO - Confidence threshold updated to 0.40
+2025-02-19 15:11:43,211 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-19 15:11:43,243 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-19 15:11:54,826 - __main__ - WARNING - Objek belum lengkap. Kurang: Silica, Barrel, Upper, Strap, Mouthpiece, Lower, Barcode, Bell, Accessories Set
+2025-02-19 15:11:57,492 - __main__ - WARNING - Objek belum lengkap. Kurang: Silica, Barrel, Upper, Strap, Mouthpiece, Lower, Barcode, Bell, Accessories Set
+2025-02-19 15:12:21,622 - __main__ - INFO - File CSV dibuka: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-19 15:22:21,799 - __main__ - WARNING - Objek belum lengkap. Kurang: Silica, Barrel, Upper, Strap, Mouthpiece, Lower, Barcode, Bell, Accessories Set

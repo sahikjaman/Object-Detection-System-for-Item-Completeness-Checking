@@ -1,0 +1,50 @@
+2025-02-17 09:25:39,172 - __main__ - INFO - Logging system initialized successfully
+2025-02-17 09:25:39,172 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250217_092539.log
+2025-02-17 09:25:39,178 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-17 09:25:39,178 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 09:25:39,178 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-17 09:25:39,179 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-17 09:25:39,266 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-17 09:25:43,278 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-17 09:25:47,820 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,936 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,945 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,952 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,962 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,970 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,978 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,986 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:47,995 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,683 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,726 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,735 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,743 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,750 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,758 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,768 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,776 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,784 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,796 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:48,801 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,808 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,819 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,827 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,838 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,896 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,910 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,919 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,928 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,936 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:48,944 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:49,452 - __main__ - INFO - Confidence threshold updated to 0.30
+2025-02-17 09:25:50,474 - __main__ - INFO - Object tracking enabled
+2025-02-17 09:25:52,630 - __main__ - INFO - Object tracking disabled
+2025-02-17 09:25:57,702 - __main__ - INFO - Confidence threshold updated to 0.45
+2025-02-17 09:25:58,048 - __main__ - INFO - Confidence threshold updated to 0.35
+2025-02-17 09:25:58,322 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-17 09:25:58,382 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-17 09:25:58,390 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-17 09:25:58,401 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-17 09:25:58,408 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-17 09:25:58,416 - __main__ - INFO - Confidence threshold updated to 0.25
+2025-02-17 09:25:58,564 - __main__ - INFO - Confidence threshold updated to 0.05

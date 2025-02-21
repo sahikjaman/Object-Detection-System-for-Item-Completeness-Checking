@@ -1,0 +1,358 @@
+2025-02-21 10:52:27,080 - __main__ - INFO - Logging system initialized successfully
+2025-02-21 10:52:27,080 - __main__ - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250221_105227.log
+2025-02-21 10:52:27,092 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_captured_photos
+2025-02-21 10:52:27,092 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 10:52:27,093 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\reports
+2025-02-21 10:52:27,093 - __main__ - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-21 10:52:27,196 - __main__ - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trainedclarinettes_yolov8n.pt
+2025-02-21 10:52:31,247 - __main__ - INFO - Video capture berhasil diinisialisasi
+2025-02-21 10:52:32,718 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:32,830 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:32,960 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:32,994 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,232 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,345 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,363 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,398 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,621 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,673 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,741 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,777 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,960 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:33,997 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,032 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,063 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,095 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,190 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,222 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,400 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,464 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,559 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,590 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,622 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,801 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:34,990 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,086 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,118 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,294 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,454 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,518 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,633 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,694 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,726 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,822 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,886 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:35,997 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,029 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,063 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,397 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,462 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,494 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,525 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,559 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,623 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,653 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,771 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,862 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,894 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,926 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:36,990 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,022 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,054 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,118 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,262 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,294 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,454 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,485 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,566 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,599 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,694 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,759 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,789 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,918 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:37,966 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,000 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,098 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,193 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,223 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,258 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,397 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,463 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,526 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,561 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,622 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,772 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,896 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:38,963 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,022 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,456 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,523 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,601 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,727 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,888 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:39,922 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,101 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,192 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,258 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,369 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,433 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,467 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,562 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,662 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,688 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,722 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,769 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:40,865 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,027 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,060 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,124 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,236 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,300 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,366 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,489 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,526 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,572 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,701 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,826 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:41,925 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,102 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,164 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,263 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,289 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,700 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,730 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,799 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,871 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,964 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:42,990 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,054 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,075 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,100 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,180 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,263 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,284 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,384 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,422 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,441 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,567 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,632 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,664 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,762 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,823 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,887 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:43,967 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,063 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,096 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,164 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,192 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,259 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,322 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,401 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,432 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,463 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,563 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,592 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,658 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,769 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,804 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,866 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,896 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:44,961 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,030 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,058 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,125 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,172 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,204 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,232 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,263 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,297 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,329 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,397 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,496 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,526 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,644 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,672 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,766 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,798 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,828 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:45,924 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,067 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,101 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,166 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,196 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,262 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,410 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,508 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,541 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,567 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,626 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,663 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,758 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,806 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,838 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,867 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:46,965 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,061 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,126 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,164 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,272 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,309 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,340 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,396 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,428 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,525 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,558 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,607 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,637 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,667 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,701 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,731 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,765 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,861 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:47,926 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:48,012 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:48,107 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:48,949 - __main__ - INFO - File CSV dibuka: D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:48,972 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,024 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,041 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,059 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,076 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,110 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,149 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,201 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,221 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,244 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,277 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,295 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,331 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,352 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,428 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,447 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,505 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,530 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,572 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,605 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,696 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,717 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,736 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,763 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,780 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,813 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,864 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,882 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,902 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:49,951 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,000 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,063 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,189 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,254 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,285 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,318 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,354 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,399 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,527 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,590 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,623 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,657 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,718 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,752 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,866 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,925 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,959 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:50,993 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,022 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,150 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,198 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,236 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,261 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,486 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,550 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,631 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,664 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,695 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,725 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,759 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,791 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,822 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,889 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,922 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:51,951 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,003 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,062 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,094 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,125 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,160 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,191 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,222 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,255 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,319 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,350 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,464 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,527 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,564 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,720 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,750 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,862 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:52,958 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,086 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,263 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,326 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,358 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,486 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,519 - __main__ - ERROR - Gagal mencatat data CSV: [Errno 13] Permission denied: 'D:\\DATA\\FOR_DL\\objectdetection\\magang2025\\clarinet_detection_log.csv'
+2025-02-21 10:52:53,631 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,694 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,725 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,791 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,857 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,887 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,920 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:53,950 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,005 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,097 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,126 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,222 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,437 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,464 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,498 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,528 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,561 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,592 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,624 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,686 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,722 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,752 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,802 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,927 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,963 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:54,992 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,023 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,060 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,124 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,153 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,201 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,234 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,264 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,326 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,365 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,427 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:55,460 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:57,699 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:58,102 - __main__ - WARNING - Objek belum lengkap. Kurang: Silica
+2025-02-21 10:52:58,290 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:58,402 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:58,434 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:59,428 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:52:59,764 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:00,135 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:02,137 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:02,842 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:05,059 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:06,627 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:06,996 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:07,210 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:07,395 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:07,643 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:07,671 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv
+2025-02-21 10:53:07,963 - __main__ - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\clarinet_detection_log.csv

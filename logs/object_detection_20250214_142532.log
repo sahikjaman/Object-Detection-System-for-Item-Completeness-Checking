@@ -1,0 +1,12 @@
+2025-02-14 14:25:32,493 - INFO - Logging system initialized successfully
+2025-02-14 14:25:32,493 - INFO - Log file created at: D:\DATA\FOR_DL\objectdetection\magang2025\logs\object_detection_20250214_142532.log
+2025-02-14 14:25:32,494 - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos
+2025-02-14 14:25:32,494 - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-14 14:25:32,494 - INFO - Direktori berhasil dibuat: D:\DATA\FOR_DL\objectdetection\magang2025
+2025-02-14 14:25:32,517 - INFO - Model berhasil dimuat dari D:\DATA\FOR_DL\objectdetection\magang2025\trained3object_yolov8n.pt
+2025-02-14 14:25:36,522 - INFO - Video capture berhasil diinisialisasi
+2025-02-14 14:25:56,119 - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-14 14:25:57,704 - INFO - Foto berhasil disimpan: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos\detected_20250214_142556.jpg
+2025-02-14 14:26:03,270 - INFO - Data berhasil dicatat di D:\DATA\FOR_DL\objectdetection\magang2025\detection_log.csv
+2025-02-14 14:26:05,247 - INFO - Foto berhasil disimpan: D:\DATA\FOR_DL\objectdetection\magang2025\captured_photos\detected_20250214_142603.jpg
+2025-02-14 14:26:16,539 - WARNING - Harus tepat 3 objek (Arduino, Camera, Remote) untuk capture.
